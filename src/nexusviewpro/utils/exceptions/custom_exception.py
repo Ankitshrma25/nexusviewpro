@@ -51,7 +51,7 @@ class VideoIDExtractionError(NexusViewProError):
 
 # Rendering Errors
 
-class RanderError(NexusViewProError):
+class RenderError(NexusViewProError):
 
     """
     Raised when an IPython display operation fails unexpectedly.    
